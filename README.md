@@ -1,6 +1,7 @@
 ### https://djukic.sellix.io/
 
 TTEncrypt/Decrypt (with source) algorithm, needed to encrypt the body of post request to /service/2/device_register/
+Contains device registration for both Android and iOS.
 Showcase: https://www.youtube.com/watch?v=G3u74lRZ8_c
 
 
